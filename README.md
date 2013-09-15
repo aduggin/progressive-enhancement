@@ -24,6 +24,8 @@ You start by establishing a basic level of user experience that all browsers wil
 * [Fuck you](http://bradfrostweb.com/blog/post/fuck-you/)
 * [STUMBLING ON THE ESCALATOR](http://christianheilmann.com/2012/02/16/stumbling-on-the-escalator/)
 * [Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement)
+* [Progressive Enhancement with CSS](http://alistapart.com/article/progressiveenhancementwithcss)
+* [Progressive Enhancement with JavaScript](http://alistapart.com/article/progressiveenhancementwithjavascript)
 * [ARIA and Progressive Enhancement](http://alistapart.com/article/aria-and-progressive-enhancement)
 * [THE IMPORTANCE OF PROGRESSIVE ENHANCEMENT](http://joshtumath.me.uk/2013/08/11/the-importance-of-progressive-enhancement/)
 
@@ -57,8 +59,10 @@ http://filamentgroup.com/lab/introducing_enhancejs_smarter_safer_apply_progressi
 	> https://code.google.com/p/enhancejs/
 		> https://code.google.com/p/enhancejs/wiki/ConfigurableOptions
 
+http://mobilewebbestpractices.com/development/support-non-javascript-enabled-devices/
 
-
+http://www.lukew.com/ff?tag=progressive%20enhancement
+http://www.lukew.com/ff/entry.asp?1652
 
 ### Against
 * [http://tomdale.net/2013/09/progressive-enhancement-is-dead/](http://tomdale.net/2013/09/progressive-enhancement-is-dead/)
@@ -71,8 +75,10 @@ http://timkadlec.com/2013/08/being-practical/
 
 ###Videos
 * [Nicholas Zakas: Progressive Enhancement 2.0](http://www.youtube.com/watch?v=hdTxeR90_1E)
+* [Responsive and Responsible](http://vimeo.com/31820502) - [slides](http://filamentgroup.com/examples/bdconf-2011/sjehl-bdconf-2011.pdf) - [notes](http://www.lukew.com/ff/entry.asp?1684)
 
 ###Slides
+* [slides](http://filamentgroup.com/examples/bdconf-2011/sjehl-bdconf-2011.pdf)
 * [Enough javascript already](http://www.slideshare.net/nzakas/enough-withthejavascriptalready)
 > https://github.com/nzakas/nui
 
